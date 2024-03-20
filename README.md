@@ -2,7 +2,7 @@
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ ¡Hola! Soy Sergio Aguado ⭐
 
-¡Bienvenido a mi GitHub! Soy Sergio Aguado, un apasionado del desarrollo de software y la tecnología blockchain. Me encanta aprender y trabajar en equipo, y me considero una persona resolutiva, responsable y sincera, capaz de realizar múltiples tareas con eficacia.
+Un apasionado del desarrollo de software y la tecnología blockchain. Me encanta aprender y trabajar en equipo, y me considero una persona resolutiva, responsable y sincera, capaz de realizar múltiples tareas con eficacia.
 
 Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unknowngravity.com/), donde tengo la oportunidad de contribuir a este emocionante mundo de esta tecnología.
 
