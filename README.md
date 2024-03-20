@@ -1,10 +1,10 @@
 [![BLOCKCHAIN EXPERTS](https://i.postimg.cc/QNT9NkQm/Sin-t-tulo-1.png)](https://postimg.cc/MXzKdBrf)
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![text.gif](https://i.postimg.cc/PrQK58YL/text.gif)](https://postimg.cc/BXt2hbhs)
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ ¡Hola! Soy Sergio Aguado ⭐
 
 ¡Bienvenido a mi GitHub! Soy Sergio Aguado, un apasionado del desarrollo de software y la tecnología blockchain. Me encanta aprender y trabajar en equipo, y me considero una persona resolutiva, responsable y sincera, capaz de realizar múltiples tareas con eficacia.
 
-Actualmente me encuentro desarrollándome como desarrollador Blockchain en [Unknown Gravity](https://www.unknowngravity.com/), donde tengo la oportunidad de contribuir a este emocionante mundo de esta tecnología.
+Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unknowngravity.com/), donde tengo la oportunidad de contribuir a este emocionante mundo de esta tecnología.
 
 ## ⚡ Tecnologías más utilizadas:
 Aquí algunas de las tecnologías con las que más he trabajado y en las que tengo más experiencia:
