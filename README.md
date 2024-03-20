@@ -1,5 +1,6 @@
 [![BLOCKCHAIN EXPERTS](https://i.postimg.cc/QNT9NkQm/Sin-t-tulo-1.png)](https://postimg.cc/MXzKdBrf)
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 ¡Hola! Soy Sergio Aguado 👋
+
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![text.gif](https://i.postimg.cc/PrQK58YL/text.gif)](https://postimg.cc/BXt2hbhs)
 
 ¡Bienvenido a mi GitHub! Soy Sergio Aguado, un apasionado del desarrollo de software y la tecnología blockchain. Me encanta aprender y trabajar en equipo, y me considero una persona resolutiva, responsable y sincera, capaz de realizar múltiples tareas con eficacia.
 
@@ -7,7 +8,8 @@ Actualmente me encuentro desarrollándome como desarrollador Blockchain en [Unkn
 
 ## ⚡ Tecnologías más utilizadas:
 Aquí algunas de las tecnologías con las que más he trabajado y en las que tengo más experiencia:
-[![TECNOLOGIAS TRABAJADAS](https://i.postimg.cc/SRDGx68m/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/644ZHGYP)
+
+[![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
 
 ## ✉️ Puedes contactar conmigo en:
 
