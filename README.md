@@ -8,6 +8,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=duals3r&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="COPAS">
 </div>
 
+
 Un apasionado del desarrollo de software y la tecnología blockchain. Me encanta aprender y trabajar en equipo, y me considero una persona resolutiva, responsable y sincera, capaz de realizar múltiples tareas con eficacia.
 
 Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unknowngravity.com/), donde tengo la oportunidad de contribuir a este emocionante mundo de esta tecnología.
