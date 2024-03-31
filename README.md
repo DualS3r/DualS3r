@@ -21,6 +21,7 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
       <img src="https://i.postimg.cc/MKqv4YK5/TITUlo-2.png">
 </div>
 
+<br>
 Aquí algunas de las tecnologías con las que más he trabajado y en las que tengo más experiencia:
 <br>
 
