@@ -1,5 +1,3 @@
-[![BLOCKCHAIN EXPERTS](https://i.postimg.cc/QNT9NkQm/Sin-t-tulo-1.png)](https://postimg.cc/MXzKdBrf)
-<br>
 <div align="center" cursor="not-allowed">
       <img src="https://i.postimg.cc/Kv5zFy3g/TITUlo-1.png">
 </div>
