@@ -1,6 +1,7 @@
 <div align="center" cursor="not-allowed">
       <img src="https://i.postimg.cc/Kv5zFy3g/TITUlo-1.png">
 </div>
+<br>
 
 Un apasionado del desarrollo de software y la tecnología blockchain. Me encanta aprender y trabajar en equipo, y me considero una persona resolutiva, responsable y sincera, capaz de realizar múltiples tareas con eficacia.
 
