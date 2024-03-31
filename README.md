@@ -1,9 +1,7 @@
 [![BLOCKCHAIN EXPERTS](https://i.postimg.cc/QNT9NkQm/Sin-t-tulo-1.png)](https://postimg.cc/MXzKdBrf)
 <br>
-<div align="center">
-      <a href="https://github.com/DualS3r" rel="nofollow">
-            <img src="https://i.postimg.cc/Kv5zFy3g/TITUlo-1.png">
-      </a>
+<div align="center" cursor="not-allowed">
+      <img src="https://i.postimg.cc/Kv5zFy3g/TITUlo-1.png">
 </div>
 <br>
 <div align="center">
