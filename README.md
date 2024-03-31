@@ -2,7 +2,9 @@
 
 ## ⭐ ¡Hola! Soy Sergio Aguado ⭐
 ![VER PERFIL](https://komarev.com/ghpvc/?username=duals3r&label=Profile%20views&color=0e75b6&style=flat)
-![COPAS](https://github-profile-trophy.vercel.app/?username=duals3r&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=duals3r&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="COPAS">
+</div>
 
 Un apasionado del desarrollo de software y la tecnología blockchain. Me encanta aprender y trabajar en equipo, y me considero una persona resolutiva, responsable y sincera, capaz de realizar múltiples tareas con eficacia.
 
@@ -10,14 +12,7 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 
 ## ⚡ Tecnologías más utilizadas:
 Aquí algunas de las tecnologías con las que más he trabajado y en las que tengo más experiencia:
-<div align="center">
 [![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
-</div>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=duals3r&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="COPAS">
-</div>
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
