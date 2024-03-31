@@ -49,7 +49,9 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
 <br>
-      [![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
+
+[![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
+
 <br>
 <div align="center" cursor="not-allowed">
       <img src="https://i.postimg.cc/dQChpqkj/TITUlo-4.png">
