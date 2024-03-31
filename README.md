@@ -9,7 +9,7 @@
 </div>
 <div> </div>
 <div align="center"> 
-     <img src="https://github-profile-trophy.vercel.app/?username=duals3r&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="COPAS">
+     <img src="https://github-profile-trophy.vercel.app/?username=duals3r&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="COPAS">
 </div>
 
 
