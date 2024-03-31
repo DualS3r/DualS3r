@@ -21,7 +21,7 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 [![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
 <br>
 <div align="center">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"&borderRadius="10px" alt="CSS3" border-radius="10px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
