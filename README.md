@@ -48,6 +48,8 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
+<img src="https://img.shields.io/keybase/btc/duals3r" alt="Postman">
+
 
 <br>
 
