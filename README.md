@@ -1,6 +1,8 @@
 [![BLOCKCHAIN EXPERTS](https://i.postimg.cc/QNT9NkQm/Sin-t-tulo-1.png)](https://postimg.cc/MXzKdBrf)
 
-## ⭐ ¡Hola! Soy Sergio Aguado ⭐
+<div align="center">
+      <img src="https://i.postimg.cc/Kv5zFy3g/TITUlo-1.png">
+</div>
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=duals3r&label=Profile%20views&color=0e75b6&style=flat">
 </div>
