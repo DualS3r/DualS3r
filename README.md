@@ -11,7 +11,7 @@
 <div align="center"> 
      <img src="https://github-profile-trophy.vercel.app/?username=duals3r&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="COPAS">
 </div>
-
+<br>
 
 Un apasionado del desarrollo de software y la tecnología blockchain. Me encanta aprender y trabajar en equipo, y me considero una persona resolutiva, responsable y sincera, capaz de realizar múltiples tareas con eficacia.
 
