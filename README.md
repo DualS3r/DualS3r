@@ -12,10 +12,10 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 Aquí algunas de las tecnologías con las que más he trabajado y en las que tengo más experiencia:
 
 [![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
+![CONTRIBUCIONES](https://github-readme-streak-stats.herokuapp.com?user=DualS3r&theme=dark&max-width=100%)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CONTRIBUCIONES](https://github-readme-streak-stats.herokuapp.com?user=DualS3r&theme=dark&max-width=100%)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![GOOGLE CLOUD](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
