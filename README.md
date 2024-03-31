@@ -2,10 +2,6 @@
       <img src="https://i.postimg.cc/Kv5zFy3g/TITUlo-1.png">
 </div>
 <br>
-<div align="center">
-      <img src="https://komarev.com/ghpvc/?username=duals3r&label=Visitas&color=0e75b6&style=flat">
-</div>
-<br>
 <div align="center"> 
      <img src="https://github-profile-trophy.vercel.app/?username=duals3r&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="COPAS">
 </div>
