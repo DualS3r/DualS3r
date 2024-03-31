@@ -17,7 +17,9 @@ Un apasionado del desarrollo de software y la tecnología blockchain. Me encanta
 
 Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unknowngravity.com/), donde tengo la oportunidad de contribuir a este emocionante mundo de esta tecnología.
 
-## ⚡ Tecnologías más utilizadas:
+<div align="center">
+      <img src="https://i.postimg.cc/MKqv4YK5/TITUlo-2.png">
+</div>
 Aquí algunas de las tecnologías con las que más he trabajado y en las que tengo más experiencia:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
