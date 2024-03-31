@@ -11,6 +11,7 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 Aquí algunas de las tecnologías con las que más he trabajado y en las que tengo más experiencia:
 
 [![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
+![CONTRIBUCIONES](https://github-readme-streak-stats.herokuapp.com?user=DualS3r&theme=dark)
 
 ## ✉️ Puedes contactar conmigo en:
 
