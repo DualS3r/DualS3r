@@ -48,14 +48,21 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
-
-
-
 <br>
-
-[![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
-
-## ✉️ Puedes contactar conmigo en:
+      [![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
+<br>
+<div align="center" cursor="not-allowed">
+      <img src="https://i.postimg.cc/dQChpqkj/TITUlo-4.png">
+</div>
+<br> 
+<div align="center"> 
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=DualS3r&theme=dark" alt="ESTADÍSTICAS">
+</div>
+<br>
+<div align="center" cursor="not-allowed">
+      <img src="https://i.postimg.cc/3wh4CzJF/TITUlo-3.png">
+</div>
+<br>
 
 Si tienes alguna pregunta, sugerencia o simplemente quieres ponerte en contacto, ¡no dudes en hacerlo! 
 
