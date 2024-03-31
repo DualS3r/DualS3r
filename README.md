@@ -1,9 +1,10 @@
 [![BLOCKCHAIN EXPERTS](https://i.postimg.cc/QNT9NkQm/Sin-t-tulo-1.png)](https://postimg.cc/MXzKdBrf)
 
 ## ⭐ ¡Hola! Soy Sergio Aguado ⭐
-
 <div align="center">
-     <img src="https://komarev.com/ghpvc/?username=duals3r&label=Profile%20views&color=0e75b6&style=flat">
+      <img src="https://komarev.com/ghpvc/?username=duals3r&label=Profile%20views&color=0e75b6&style=flat">
+</div>
+<div align="center"> 
      <img src="https://github-profile-trophy.vercel.app/?username=duals3r&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="COPAS">
 </div>
 
