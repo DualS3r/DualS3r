@@ -20,10 +20,11 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 <div align="center">
       <img src="https://i.postimg.cc/MKqv4YK5/TITUlo-2.png">
 </div>
+<br>
 
+[![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
 <br>
 <div align="center">
-
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -48,9 +49,7 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
-<br>
 
-[![TECNOLOGÍAS UTILIZADAS](https://i.postimg.cc/qqnM4TFr/rey3z4n04v8tkyv3q7of72d98ws8-copia.webp)](https://postimg.cc/Zvbhx1Zs)
 
 <br>
 <div align="center" cursor="not-allowed">
