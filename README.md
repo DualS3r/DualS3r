@@ -1,7 +1,9 @@
 [![BLOCKCHAIN EXPERTS](https://i.postimg.cc/QNT9NkQm/Sin-t-tulo-1.png)](https://postimg.cc/MXzKdBrf)
 <br>
 <div align="center">
-      <img src="https://i.postimg.cc/Kv5zFy3g/TITUlo-1.png">
+      <a href="https://github.com/DualS3r" rel="nofollow">
+            <img src="https://i.postimg.cc/Kv5zFy3g/TITUlo-1.png">
+      </a>
 </div>
 <br>
 <div align="center">
@@ -48,7 +50,7 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
-<img src="https://img.shields.io/keybase/btc/duals3r" alt="Postman">
+
 
 
 <br>
