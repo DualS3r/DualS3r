@@ -53,9 +53,10 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 </div>
 <br>
 <div align="center"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=duals3r&count_private=true&show_icons=true&theme=dark" alt="ESTADÍSTICAS">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=DualS3r&theme=dark" width="495px" height="195px" alt="ESTADÍSTICAS">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duals3r&layout=compact&theme=dark" alt="ESTADÍSTICAS">
+      <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=duals3r&amp;theme=slateorange&amp;hide_border=false" alt="github streak">
+      <img class="output" src="https://github-readme-stats.vercel.app/api?username=duals3r&amp;theme=slateorange&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats">
+      <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=duals3r&amp;theme=slateorange&amp;hide_border=false" alt="github streak">
+     
 </div>
 <br>
 <div align="center" cursor="not-allowed">
