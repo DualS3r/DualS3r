@@ -54,7 +54,7 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
 <br>
 <div align="center"> 
       <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=duals3r&amp;theme=slateorange&amp;hide_border=false" alt="github streak">
-      <img src="https://camo.githubusercontent.com/c1f600c4fe47414462cb42c5389bb13912c5e0a1c19f15c05e633d74b2b319a5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612672616e6b5f69636f6e3d676974687562" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=duals3r&amp;theme=slateorange&rank_icon=github" style="max-width: 100%;>
+     <img class="output" src="https://github-readme-stats.vercel.app/api?username=duals3r&amp;theme=slateorange&amp;rank_icon=github&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats">
       <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duals3r&amp;theme=slateorange&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="github top languages">
      
 </div>
