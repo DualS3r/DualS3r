@@ -59,8 +59,6 @@ Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unkno
      
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 <div align="center" cursor="not-allowed">
       <img src="https://i.postimg.cc/3wh4CzJF/TITUlo-3.png">
