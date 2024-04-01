@@ -5,7 +5,7 @@
 
 Un apasionado del desarrollo de software y la tecnología blockchain. Me encanta aprender y trabajar en equipo, y me considero una persona resolutiva, responsable y sincera, capaz de realizar múltiples tareas con eficacia.
 
-Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unknowngravity.com/), donde tengo la oportunidad de contribuir en el emocionante mundo de esta tecnología.
+Actualmente me encuentro desarrollándome en [Unknown Gravity](https://www.unknowngravity.com/), donde tengo la oportunidad de contribuir en el emocionante mundo de la tecnología blockchain.
 
 <br>
 <div align="center"> 
